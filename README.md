@@ -1,4 +1,4 @@
-# 🎼 MusicPart - Project Tree & Functional Overview
+# 🎼 MusicPart
 
 MusicPart est une application Android permettant de gérer et lire des partitions musicales, tablatures et fichiers MIDI, avec support pour la synchronisation entre partition visuelle et audio.
 
